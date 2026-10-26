@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Concert acoustique au parc",
+    "category": "Concert",
+    "date": "Sam. 4 oct. · 19h00",
+    "location": "Parc de la Médina",
+    "description": "Une soirée intimiste sous les arbres avec trois artistes locaux. Apportez un plaid : les places sont en pelouse libre et l'entrée est gratuite.",
+    "image": "event_photo_concert.png"
+  },
+  {
+    "id": 2,
+    "title": "Exposition photo urbaine",
+    "category": "Expo",
+    "date": "Dim. 5 oct. · 10h–18h",
+    "location": "Galerie El Kantara",
+    "description": "Quarante tirages grand format racontent la ville au lever du jour. Visite guidée à 11h et à 15h avec le photographe.",
+    "image": "event_photo_expo.png"
+  },
+  {
+    "id": 3,
+    "title": "Tournoi de basket 3x3",
+    "category": "Sport",
+    "date": "Mer. 8 oct. · 17h30",
+    "location": "Terrain municipal",
+    "description": "Seize équipes de trois joueurs s'affrontent en matchs de dix minutes. Inscription sur place jusqu'à 17h.",
+    "image": "event_photo_sport.png"
+  },
+  {
+    "id": 4,
+    "title": "Jazz sur la terrasse",
+    "category": "Concert",
+    "date": "Jeu. 9 oct. · 20h00",
+    "location": "Café Le Phare",
+    "description": "Un quartet de jazz revisite les standards sur fond de coucher de soleil. Réservation conseillée.",
+    "image": "event_photo_concert.png"
+  },
+  {
+    "id": 5,
+    "title": "Marathon de la corniche",
+    "category": "Sport",
+    "date": "Dim. 12 oct. · 7h30",
+    "location": "Corniche de La Goulette",
+    "description": "Parcours de 21 km le long de la mer, avec ravitaillements tous les 5 km. Départ groupé à 7h30.",
+    "image": "event_photo_sport.png"
+  },
+  {
+    "id": 6,
+    "title": "Atelier de céramique",
+    "category": "Expo",
+    "date": "Sam. 11 oct. · 14h00",
+    "location": "Maison des Arts",
+    "description": "Modelez votre première pièce avec une céramiste. Matériel fourni, places limitées à douze participants.",
+    "image": "event_photo_expo.png"
+  },
+  {
+    "id": 7,
+    "title": "Fanfare des quartiers",
+    "category": "Concert",
+    "date": "Ven. 17 oct. · 18h30",
+    "location": "Place de la République",
+    "description": "Cinq fanfares défilent et se rejoignent pour un final commun sur la place. Gratuit, en plein air.",
+    "image": "event_photo_concert.png"
+  },
+  {
+    "id": 8,
+    "title": "Street-art : visite à pied",
+    "category": "Expo",
+    "date": "Sam. 18 oct. · 10h00",
+    "location": "Quartier de Bab Souika",
+    "description": "Deux heures pour découvrir les fresques murales et rencontrer leurs auteurs. Chaussures confortables conseillées.",
+    "image": "event_photo_expo.png"
+  },
+  {
+    "id": 9,
+    "title": "Yoga au lever du soleil",
+    "category": "Sport",
+    "date": "Dim. 19 oct. · 6h45",
+    "location": "Plage de Gammarth",
+    "description": "Séance douce ouverte à tous les niveaux. Apportez votre tapis et une bouteille d'eau.",
+    "image": "event_photo_sport.png"
+  },
+  {
+    "id": 10,
+    "title": "Récital de piano",
+    "category": "Concert",
+    "date": "Mar. 21 oct. · 19h30",
+    "location": "Théâtre municipal",
+    "description": "Un programme Chopin et Debussy par une jeune pianiste primée. Tarif étudiant à 5 dinars.",
+    "image": "event_photo_concert.png"
+  },
+  {
+    "id": 11,
+    "title": "Sculptures de sable",
+    "category": "Expo",
+    "date": "Mer. 22 oct. · 9h–19h",
+    "location": "Plage de La Marsa",
+    "description": "Des sculpteurs érigent des œuvres monumentales en direct. Les enfants peuvent construire leur propre château.",
+    "image": "event_photo_expo.png"
+  },
+  {
+    "id": 12,
+    "title": "Course d'orientation",
+    "category": "Sport",
+    "date": "Sam. 25 oct. · 9h00",
+    "location": "Forêt de Radès",
+    "description": "Un parcours chronométré entre balises, par équipes de deux. Boussole conseillée, carte fournie.",
+    "image": "event_photo_sport.png"
+  },
+  {
+    "id": 13,
+    "title": "Soirée slam et poésie",
+    "category": "Concert",
+    "date": "Ven. 24 oct. · 20h30",
+    "location": "Librairie Al Kitab",
+    "description": "Scène ouverte : inscrivez-vous pour dire un texte de trois minutes ou venez simplement écouter.",
+    "image": "event_photo_concert.png"
+  },
+  {
+    "id": 14,
+    "title": "Biennale de l'illustration",
+    "category": "Expo",
+    "date": "Jeu. 30 oct. · 10h–20h",
+    "location": "Palais Kheireddine",
+    "description": "Plus de soixante illustrateurs présentent leurs planches originales. Librairie et atelier jeunesse sur place.",
+    "image": "event_photo_expo.png"
+  },
+  {
+    "id": 15,
+    "title": "Tournoi de pétanque",
+    "category": "Sport",
+    "date": "Sam. 1 nov. · 15h00",
+    "location": "Jardin du Belvédère",
+    "description": "Doublettes tirées au sort pour une après-midi conviviale. Les boules sont prêtées.",
+    "image": "event_photo_sport.png"
+  },
+  {
+    "id": 16,
+    "title": "Concert de l'orchestre étudiant",
+    "category": "Concert",
+    "date": "Dim. 2 nov. · 17h00",
+    "location": "Auditorium de l'ISET",
+    "description": "L'orchestre des étudiants présente son programme d'automne. Entrée libre dans la limite des places.",
+    "image": "event_photo_concert.png"
+  },
+  {
+    "id": 17,
+    "title": "Salon de la photographie",
+    "category": "Expo",
+    "date": "Ven. 7 nov. · 10h–18h",
+    "location": "Centre culturel",
+    "description": "Rencontres avec des photographes, projections et conférences sur la photo mobile.",
+    "image": "event_photo_expo.png"
+  },
+  {
+    "id": 18,
+    "title": "Match de futsal inter-quartiers",
+    "category": "Sport",
+    "date": "Sam. 8 nov. · 16h00",
+    "location": "Salle omnisports",
+    "description": "Finale du championnat des quartiers. Ambiance garantie, buvette sur place.",
+    "image": "event_photo_sport.png"
+  }
+]
